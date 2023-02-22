@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.menu{
+  display: flex;
+  margin: 10px;
+  justify-content:space-around;
+  margin-top: 18px;
+  background-color: rgb(221, 225, 226);
+  padding: 10px;
+}
+
+.menu a{
+  color: rgb(147, 132,147);
+  margin: 10px;
+  margin-top: 18px;
+
+}
+
+.menu img{
+  justify-content: flex-start;
+}
+

@@ -1,0 +1,22 @@
+
+
+.box{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 17%;
+}
+
+.box div{
+  width: 30%;
+  height: 30%;
+  margin: 5px;
+  background-color: rgb(234, 230, 227);
+  border-color: black;
+padding: 10px;
+}
+
+body{
+  background-color: rgb(243, 242, 240);
+}
